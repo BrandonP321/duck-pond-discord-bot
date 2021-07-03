@@ -1,0 +1,26 @@
+[
+    {
+        "command": "//help",
+        "description": "Get list of all commands"
+    },
+    {
+        "command": "//kanye",
+        "description": "Get a random Kanye quote"
+    },
+    {
+        "command": "//",
+        "description": ""
+    },
+    {
+        "command": "//",
+        "description": ""
+    },
+    {
+        "command": "//",
+        "description": ""
+    },
+    {
+        "command": "//",
+        "description": ""
+    }
+]
